@@ -1,4 +1,5 @@
 VinzzRE: AI Tactical Survival Assistant
+https://sincere-eris-0f9.notion.site/VinzzRE-AI-Tactical-Survival-Assistant-3e7fc2cd73de803ea843e5b02e3d3a3e
 
 VinzzRE asisten AI interaktif berbasis *Retrieval-Augmented Generation* (RAG) yang dirancang khusus untuk mendampingi pemain gim taktis *survival-horror* seperti *Resident Evil*. Masalah utama yang diselesaikan adalah kesulitan pemain dalam mencari panduan (*walkthrough*), solusi teka-teki (*puzzle*), dan strategi *boss* yang sering kali terpencar, tidak terstruktur, atau memakan waktu lama di internet. Pengguna utama proyek ini adalah para pemain gim, kreator konten, dan penggemar strategi digital yang membutuhkan referensi instan. Solusi bekerja dengan cara mengindeks dokumen panduan resmi ke dalam basis data vektor, sehingga agen AI dapat memproses pertanyaan pengguna dan memberikan jawaban taktis yang akurat secara real-time. Manfaat utamanya adalah meningkatkan efisiensi waktu bermain, melatih kemampuan pemecahan masalah (*problem-solving*), serta mengoptimalkan manajemen sumber daya dalam permainan tanpa risiko halusinasi data.
 
