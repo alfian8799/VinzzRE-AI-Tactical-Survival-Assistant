@@ -38,8 +38,5 @@ IBM Bob digunakan sebagai lapisan antarmuka pengguna akhir (*user-facing convers
 
 ### **Bagaimana IBM Langflow dan IBM Bob Terintegrasi?**
 
-<<<<<<< HEAD
 IBM Langflow bertindak sebagai pengendali logika di balik layar (*backend orchestration*) yang memproses kueri, melakukan pencarian vektor ke Astra DB, dan mengeksekusi instruksi LLM, sementara IBM Bob bertindak sebagai jembatan antarmuka interaktif yang menerima masukan ketikan pengguna. Data atau informasi berpindah ketika pengguna mengirimkan pesan di IBM Bob, yang kemudian diteruskan ke *endpoint* alur kerja Langflow untuk diproses oleh agen RAG, dan hasil akhirnya dikembalikan ke layar obrolan IBM Bob sebagai respons teks terstruktur.
-=======
-IBM Langflow bertindak sebagai pengendali logika di balik layar (*backend orchestration*) yang memproses kueri, melakukan pencarian vektor ke Astra DB, dan mengeksekusi instruksi LLM, sementara IBM Bob bertindak sebagai jembatan antarmuka interaktif yang menerima masukan ketikan pengguna. Data atau informasi berpindah ketika pengguna mengirimkan pesan di IBM Bob, yang kemudian diteruskan ke *endpoint* alur kerja Langflow untuk diproses oleh agen RAG, dan hasil akhirnya dikembalikan ke layar obrolan IBM Bob sebagai respons teks terstruktur.
->>>>>>> 57465908ab52b59e00f062b47c2e3bd39c576a62
+
